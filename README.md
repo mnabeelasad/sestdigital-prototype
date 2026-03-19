@@ -28,6 +28,7 @@ A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI De
 2. **Set up a virtual environment:**
 
 # Windows
+
 python -m venv venv
 .\venv\Scripts\activate
 
@@ -35,8 +36,8 @@ python -m venv venv
 python3 -m venv venv
 source venv/bin/activate
 
-2. **Set up a virtual environment:**
-
+**2. Set up a virtual environment:**
+```bash
 # Windows
 python -m venv venv
 .\venv\Scripts\activate
@@ -44,21 +45,27 @@ python -m venv venv
 # Mac/Linux
 python3 -m venv venv
 source venv/bin/activate
+```
 
-3. **Install dependencies:**
-
+**3. Install dependencies:**
+```bash
 pip install -r requirements.txt
+```
 
-4. **Configure Environment Variables (.env):**
+**4. Configure Environment Variables (.env):**
+Create a new file named exactly `.env` in the root folder of the project.
 
+```text
 # REQUIRED: Your OpenAI API Key
 OPENAI_API_KEY=sk-your-openai-api-key-here
 
-# OPTIONAL: WordPress Integration
+# OPTIONAL (For Bonus 2): WordPress Integration
 WP_URL=[https://your-wordpress-site.com](https://your-wordpress-site.com)
 WP_USER=your_wp_admin_username
 WP_APP_PASSWORD=your_24_character_application_password
+```
 
-5. **Run the Application:**
-
+**5. Run the Application:**
+```bash
 streamlit run app.py
+```
