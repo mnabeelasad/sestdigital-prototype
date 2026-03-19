@@ -25,17 +25,6 @@ A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI De
     git clone https://github.com/mnabeelasad/sestdigital-prototype.git
     cd sestdigital-prototype
 
-2. **Set up a virtual environment:**
-
-# Windows
-
-python -m venv venv
-.\venv\Scripts\activate
-
-# Mac/Linux
-python3 -m venv venv
-source venv/bin/activate
-
 **2. Set up a virtual environment:**
 ```bash
 # Windows
