@@ -2,6 +2,14 @@
 
 A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI Developer Case Study. This agent autonomously transforms internal knowledge (meeting transcripts and product documentation) into SEO-optimized website content.
 
+### 📸 Project Snapshots
+**The Streamlit Agent Interface:**
+![Streamlit UI](assets/streamlit-ui.png)
+
+Autonomous WordPress Publishing:**
+![WordPress Integration](assets/wordpress-draft.png)
+
+
 ## ✨ Features
 
 * **Local RAG Pipeline:** Ingests internal PDFs, chunks the text, and stores vectors locally using ChromaDB for fast, secure retrieval.
