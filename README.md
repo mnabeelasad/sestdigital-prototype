@@ -4,7 +4,8 @@ A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI De
 
 ### 📸 Project Snapshots
 **The Streamlit Agent Interface:**
-<img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/10c215ba-a017-48a9-9a21-d590d9181886" />
+<img width="1915" height="984" alt="image" src="https://github.com/user-attachments/assets/c7d1865e-141b-45f3-b1ae-1ffc740549e8" />
+
 
 
 ## ✨ Features
@@ -16,7 +17,8 @@ A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI De
 * **🌟 WordPress REST API Ready:** Includes a working integration to push drafted articles directly to a WordPress live site/sandbox using Application Passwords.
   
 Autonomous WordPress Publishing:
-<img width="1914" height="923" alt="image" src="https://github.com/user-attachments/assets/d81780d9-b7cf-490c-9951-74f7aeb393a0" />
+<img width="1916" height="940" alt="image" src="https://github.com/user-attachments/assets/34696214-8099-4c29-9b6f-061e89c2d781" />
+
 
 ## 🏗️ Architecture & Tech Stack
 
