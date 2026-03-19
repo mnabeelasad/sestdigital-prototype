@@ -24,3 +24,41 @@ A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI De
    ```bash
     git clone https://github.com/mnabeelasad/sestdigital-prototype.git
     cd sestdigital-prototype
+
+2. **Set up a virtual environment:**
+
+# Windows
+python -m venv venv
+.\venv\Scripts\activate
+
+# Mac/Linux
+python3 -m venv venv
+source venv/bin/activate
+
+2. **Set up a virtual environment:**
+
+# Windows
+python -m venv venv
+.\venv\Scripts\activate
+
+# Mac/Linux
+python3 -m venv venv
+source venv/bin/activate
+
+3. **Install dependencies:**
+
+pip install -r requirements.txt
+
+4. **Configure Environment Variables (.env):**
+
+# REQUIRED: Your OpenAI API Key
+OPENAI_API_KEY=sk-your-openai-api-key-here
+
+# OPTIONAL: WordPress Integration
+WP_URL=[https://your-wordpress-site.com](https://your-wordpress-site.com)
+WP_USER=your_wp_admin_username
+WP_APP_PASSWORD=your_24_character_application_password
+
+5. **Run the Application:**
+
+streamlit run app.py
