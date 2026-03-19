@@ -22,5 +22,5 @@ A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI De
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/sestdigital-content-agent.git](https://github.com/YOUR-USERNAME/sestdigital-content-agent.git)
-   cd sestdigital-content-agent
+    git clone https://github.com/mnabeelasad/sestdigital-prototype.git
+    cd sestdigital-prototype
