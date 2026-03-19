@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI De
 <img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/10c215ba-a017-48a9-9a21-d590d9181886" />
 
 Autonomous WordPress Publishing:**
-![WordPress Integration](<img width="1914" height="923" alt="image" src="https://github.com/user-attachments/assets/d81780d9-b7cf-490c-9951-74f7aeb393a0" />)
+(<img width="1914" height="923" alt="image" src="https://github.com/user-attachments/assets/d81780d9-b7cf-490c-9951-74f7aeb393a0" />
 
 
 ## ✨ Features
