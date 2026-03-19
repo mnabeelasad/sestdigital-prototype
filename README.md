@@ -6,9 +6,6 @@ A Retrieval-Augmented Generation (RAG) prototype built for the SESTdigital AI De
 **The Streamlit Agent Interface:**
 <img width="1920" height="1037" alt="image" src="https://github.com/user-attachments/assets/10c215ba-a017-48a9-9a21-d590d9181886" />
 
-Autonomous WordPress Publishing:**
-(<img width="1914" height="923" alt="image" src="https://github.com/user-attachments/assets/d81780d9-b7cf-490c-9951-74f7aeb393a0" />
-
 
 ## ✨ Features
 
@@ -17,6 +14,9 @@ Autonomous WordPress Publishing:**
 * **Autonomy:** The agent analyzes sales transcripts to identify customer pain points and matches them with the correct SESTdigital solutions (e.g., KI-Führerschein, KI-Workshops).
 * **🌟 Automatic Categorization:** The LLM is strictly prompted to categorize generated articles into SESTdigital's core buckets: *Strategy, Training,* or *Technology*.
 * **🌟 WordPress REST API Ready:** Includes a working integration to push drafted articles directly to a WordPress live site/sandbox using Application Passwords.
+  
+Autonomous WordPress Publishing:
+<img width="1914" height="923" alt="image" src="https://github.com/user-attachments/assets/d81780d9-b7cf-490c-9951-74f7aeb393a0" />
 
 ## 🏗️ Architecture & Tech Stack
 
