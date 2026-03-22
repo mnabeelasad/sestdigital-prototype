@@ -1,4 +1,14 @@
 # app.py
+
+"""
+SESTdigital Content Agent Prototype
+-----------------------------------
+This module implements a Retrieval-Augmented Generation (RAG) pipeline.
+It indexes meeting transcripts into a ChromaDB vector store and utilizes 
+an LLM to stream SEO-optimized article drafts directly to a UI.
+Includes a REST API integration for CMS delivery.
+"""
+
 import streamlit as st
 import os
 from config import load_environment
