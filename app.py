@@ -150,6 +150,11 @@ else:
             
         st.markdown('</div>', unsafe_allow_html=True)
 
+    elif st.session_state.article_draft:
+        st.markdown('<div class="output-container">', unsafe_allow_html=True)
+        st.markdown(st.session_state.article_draft)
+        st.markdown('</div>', unsafe_allow_html=True)
+
     # ─── Download Button (Only shows after generation) ───
     if st.session_state.article_draft:
         st.divider()
