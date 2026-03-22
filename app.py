@@ -78,7 +78,10 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+
 # ─── Initialize Session State ───
+# We are use Streamlit's session state to persist the vector store and generated draft
+# across UI reruns. This prevents redundant database indexing and duplicate LLM API calls.
 if "vector_store" not in st.session_state:
     st.session_state.vector_store = None
 if "article_draft" not in st.session_state:
